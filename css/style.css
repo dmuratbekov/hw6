@@ -1,0 +1,30 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.block{
+    padding: 20px;
+    width: 500px;
+}
+.header{
+    justify-content: space-between;
+    display: flex;
+}
+.header input{
+    width: 80%;
+    height: 30px;
+    font-size: 18px;
+}
+.header button{
+    width: 20%;
+}
+p{
+    margin: 0;
+    padding-top: 10px;
+    font: 30px sans-serif;
+}
